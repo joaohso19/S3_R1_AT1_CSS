@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+h1, h2, h3 {
+    color: #111;
+}
+
+header {
+    background-color: #fff;
+}
+
+#banner {
+    background-color: #0066cc;
+    color: #fff;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+}
+
+.curso-card {
+    background-color: #fff;
+}
+
+.texto-descricao {
+    color: #555;
+}
+
+.info-contato {
+    background-color: #fff;
+}
